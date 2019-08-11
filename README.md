@@ -36,8 +36,8 @@ AddEventHandler('esx_status:load', function(status)
 
 end)
 Disabling Basic Needs Bars (resources[esx]\esx_basicneeds\client\main.lua esx_status:loaded)
-AddEventHandler('esx_status:loaded', function(status)
 
+AddEventHandler('esx_status:loaded', function(status)
 	TriggerEvent('esx_status:registerStatus', 'hunger', 1000000, '#FFFF00', -- amarelo
 	--TriggerEvent('esx_status:registerStatus', 'hunger', 1000000, '#CFAD0F', -- GOLD
 		function(status)
