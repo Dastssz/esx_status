@@ -1,0 +1,2 @@
+# esx_status
+Screenshots:  https://camo.githubusercontent.com/d669539015c59ed05c72ed6ce7c79d40eb5dbc65/68747470733a2f2f692e696d6775722e636f6d2f38344e527177612e706e67
